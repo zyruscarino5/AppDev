@@ -188,7 +188,7 @@ public class StudentNames {
 
     System.out.println("Stefany Domingo Tapia - BSIT 2D");
 
-
+     System.out.println(" Zyrus G Carino - BSIT 2C")
 
 
     }
